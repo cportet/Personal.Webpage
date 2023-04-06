@@ -1,0 +1,21 @@
+﻿<div class="nav-item px-3">
+    <NavLink class="nav-link" href="@HRef">
+        <i class=@IconClass></i> @Label
+    </NavLink>
+</div>
+
+@code {
+    [EditorRequired]
+    [Parameter]
+    public string? HRef { get; set; }
+
+    [EditorRequired]
+    [Parameter]
+    public string? Label { get; set; }
+
+    [Parameter]
+    public string? IconName { get; set; }
+
+    public string IconClass => $"bi bi-{IconName}";
+
+}
