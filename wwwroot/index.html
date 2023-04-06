@@ -30,22 +30,27 @@
 
 <body>
     <div id="app">
-        <svg class="loading-progress">
-            <circle r="40%" cx="50%" cy="50%" />
-            <circle r="40%" cx="50%" cy="50%" />
-        </svg>
-        <div class="loading-progress-text"></div>
+        <div>
+            <svg class="loading-progress">
+                <circle r="40%" cx="50%" cy="50%" />
+                <circle r="40%" cx="50%" cy="50%" />
+            </svg>
+            <div class="loading-progress-text"></div>
+        </div>
+        <h2 class="home-title">Cyril PORTET</h2>
+        <h5 class="home-title">Merci de patienter...</h5>
     </div>
 
     <div id="blazor-error-ui">
-        Une erreur inattendue est survenue. Oups ! Si besoin, contactez-moi <a href="mailto:contact@portet.org?subject=Erreur%20%sur%votre%site">par mail</a>
-        <a href="" class="reload">Recharger</a>
+        Une erreur inattendue est survenue. Oups ! Si besoin, contactez-moi 
+        <a href="mailto:contact@portet.org?subject=Erreur%20sur%20votre%20site">par mail</a>
+        <a href="" class="reload">[Recharger]</a>
         <a class="dismiss">🗙</a>
     </div>
-    
+
     <script src="_framework/blazor.webassembly.js"></script>
     <script>navigator.serviceWorker.register('service-worker.js');</script>
-    
+
 </body>
 
 </html>

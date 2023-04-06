@@ -1,3 +1,12 @@
+.home-title {
+    text-align: center;
+}
+
+.reload {
+    margin-left: 5px;
+    font-weight: 500;
+}
+
 .nav-link i.bi {
     padding-right: 10px;
 }
