@@ -11,6 +11,8 @@ namespace Personal.Webspace.Shared.Services
         {
             Pipeline = new MarkdownPipelineBuilder().UseAdvancedExtensions()
                 .Use<MarkdigLinkTargetBlank>()
+                .Use<MarkdigBadge>()
+                .Use<MarkdigFunctions>()
                 .Build();
         }
     }

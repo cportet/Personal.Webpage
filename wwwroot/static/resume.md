@@ -2,40 +2,34 @@
 
 ## A propos
 
-**Important** : Je ne suis pas en recherche de nouvelles opportunités professionnelles actuellement.
+> **Important** : Je ne suis pas en recherche de nouvelles opportunités professionnelles actuellement.
 
 Bonjour,
 
-Je dispose de plus de 20 ans d’expérience dans le développement infomatique, la gestion de projet et le management d’équipe (ou d’environnement) IT.
+Je dispose de plus de :Age("01/09/2000") d’expérience dans le développement infomatique, la gestion de projet et le management d’équipe (ou d’environnement) IT.
 
 Aussi bien à l’aise en environnement Agile que sur des approches Waterfall, j’associe mon expertise technique acquise en tant que développeur, particulièrement en environnement Microsoft (.NET) avec mes capacités relationnelles et de gestion de projet avec comme double objectif, la satisfaction utilisateur et la qualité logicielle.
 
 Mon expertise se porte particulièrement sur la gestion de projet Agile (Scrum) et le Management.
 
-Techniquement, je suis très à l’aise avec le Web et particulièrement avec .NET.
+Techniquement, je suis très à l’aise avec le Web et particulièrement avec ASP.NET.
 
 Je suis de nationalité Française, originaire de Picardie (Oise).
 
-J’ai vécu ou travaillé en Picardie, Ile de France et Belgique et je suis désormais installé en région lyonnaise ou je travaille chez un éditeur logiciel.
+J’ai vécu et travaillé en Picardie, Ile de France et Belgique et je suis désormais installé en région lyonnaise ou je travaille chez un éditeur logiciel.
 
 
 Pour en savoir plus sur mon parcours professionnel, vous pouvez télécharger mon CV au format PDF ou consulter mon profil LinkedIn.
 
 ## Compétences
 
-### Compétences techniques
+Catégorie | Sujets
+- | -
+Compétences Techniques | ^AzureDevOps^ ^Blazor (WASM)^ ^ASP.NET Core^ ^Entity Framework Core^
+Langages | ^C#^ ^SQL^ ^T-SQL^ ^Visual Basic^ ^Powershell^ ^HTML^ ^CSS^
+Compétences Fonctionnelles | ^Agile Scrum^ ^Kanban^ ^Gestion de projet^ ^Management d'équipe^ ^Communication^ ^Architecture^ ^Capacités rédactionnelles^
 
-AzureDevOps, Blazor, C#, ASP.NET Core, Entity Framework Core
-
-### Langages de programmation
-
-C#, SQL, T-SQL, Visual Basic, Powershell, HTML, CSS
-
-### Compétences fonctionnelles
-
-Agile Scrum, Kanban, Gestion de projet, Management d'équipes, Communication, Architecture, Capacités rédactionnelles
-
-### Formations et certifications
+## Formations et certifications
 
 Dernières formation et certifications :
 
